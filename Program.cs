@@ -1,4 +1,4 @@
-using InventoryManagement.Models;
+﻿using InventoryManagement.Models;
 using InventoryManagement.Services;
 
 class Program
