@@ -14,6 +14,11 @@ namespace InventoryApp
             SetupUI();
         }
 
+        private void InitializeComponent()
+        {
+            throw new NotImplementedException();
+        }
+
         private TextBox txtName;
         private TextBox txtQuantity;
         private TextBox txtPrice;
